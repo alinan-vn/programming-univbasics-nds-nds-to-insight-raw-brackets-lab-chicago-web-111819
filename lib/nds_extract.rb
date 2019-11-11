@@ -14,7 +14,8 @@ def directors_totals(nds)
   }
   
   row_index = 0 
-  
+  while row_index < directors_database.length do
+    
   
   
   nil
